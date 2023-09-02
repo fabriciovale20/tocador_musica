@@ -14,9 +14,7 @@
 </p>
 
 ## Página Principal
-<img src ="imagens/music1.png" width="200"/>
-<img src ="imagens/music2.png" width="200"/>
-<img src ="imagens/music3.png" width="200"/>
+<img src ="imagens/music1.png" width="200"/> <img src ="imagens/music2.png" width="200"/> <img src ="imagens/music3.png" width="200"/>
 
 <br>
 <div style="display: inline_block">
